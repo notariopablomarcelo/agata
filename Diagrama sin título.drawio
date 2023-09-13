@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T14:39:35.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wiy2_gg2MpSM_eS-Z796" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T14:46:22.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ktgnD8up0WSKtfzAK-zC" version="21.7.5" type="github">
   <diagram name="Página-1" id="sLxuqajCXeq4VcmaUZGw">
     <mxGraphModel dx="1834" dy="1150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,9 @@
             <mxPoint x="292" y="368" as="sourcePoint" />
             <mxPoint x="21" y="152" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K9NDLCsNyoqZcC6Khb1a-7" value="&lt;b&gt;Claims&lt;/b&gt;&lt;br&gt;can_read_obras&lt;br&gt;can_create_obra&lt;br&gt;can_edit_obra&lt;br&gt;can_delete_obra&lt;br&gt;can_view_obra" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="700" width="178" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
